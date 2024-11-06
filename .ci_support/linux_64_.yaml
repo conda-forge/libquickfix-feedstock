@@ -19,7 +19,7 @@ libxml2:
 openssl:
 - '3'
 postgresql:
-- '16'
+- '17'
 target_platform:
 - linux-64
 zip_keys:
