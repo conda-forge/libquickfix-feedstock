@@ -21,6 +21,6 @@ macos_machine:
 openssl:
 - '3'
 postgresql:
-- '16'
+- '17'
 target_platform:
 - osx-64
