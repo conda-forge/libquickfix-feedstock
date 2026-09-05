@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 1.15.1.post20240724
+  version: "1.16.0"
 
 package:
   name: libquickfix
@@ -14,7 +14,7 @@ source:
     - remove_net_test.diff
 
 build:
-  number: 4
+  number: 0
   skip: win
 
 requirements:
